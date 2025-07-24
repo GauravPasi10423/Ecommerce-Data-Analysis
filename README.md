@@ -56,6 +56,6 @@ This project is useful for:
 ## 👨‍💻 Author
 
 **Gaurav Pasi**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-💻 [GitHub](https://github.com/your-username)
+📧 gauravpasi99@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/gaurav-pasi-53565a222/)  
+💻 [GitHub](https://github.com/GauravPasi10423)
